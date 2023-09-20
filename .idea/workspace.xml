@@ -4,15 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c959c0-ea5b-4ab0-8a2a-fd6807a73034" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BehaviouralDesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="07c959c0-ea5b-4ab0-8a2a-fd6807a73034" name="Changes" comment="Observer Design Pattern">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BehaviouralDesignPattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/Bitcoin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/BitcoinManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/EmailConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/Publisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverDesignPattern/src/SMSConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +36,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -78,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695051962405</updated>
-      <workItem from="1695051963477" duration="2697000" />
+      <workItem from="1695051963477" duration="3451000" />
     </task>
     <servers />
   </component>
